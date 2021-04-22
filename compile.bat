@@ -1,0 +1,1 @@
+pyinstaller --clean -D --windowed --add-data="amogus.mp4;." -n="amongus" virus.py
