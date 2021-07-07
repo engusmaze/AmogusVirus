@@ -31,4 +31,4 @@ Don't try to run this thing on versions higher than 3.8
 - keyboard
 - psutil
 
-Then run compile.bat to get working folder with virus
+Then run compile.bat to get working program in folder with virus
