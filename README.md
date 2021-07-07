@@ -18,6 +18,8 @@ The "amogus video" will then start playing full screen and cannot be stopped wit
 
 ## How to setup
 
+### You can download working program on releases page or compile it by yourself
+
 I used python 3.7.* to create this thing
 
 But it will also work on 3.6.* - 3.8.* versions
