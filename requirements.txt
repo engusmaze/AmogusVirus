@@ -1,0 +1,5 @@
+pyinstaller==4.3
+pyglet==1.5.18
+mouse==0.7.1
+keyboard==0.13.5
+psutil==5.8.0
