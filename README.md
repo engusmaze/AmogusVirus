@@ -30,5 +30,5 @@ Don't try to run this thing on versions higher than 3.8
 - mouse
 - keyboard
 - psutil
-- 
+
 Then run compile.bat to get working folder with virus
